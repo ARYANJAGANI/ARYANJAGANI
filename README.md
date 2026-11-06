@@ -1,6 +1,6 @@
 <p align="center">
 <!-- Add a banner image: upload one to this repo (e.g. profile-banner.png, ~1280x320px) and replace the src below -->
-<img src="https://via.placeholder.com/1280x300?text=Add+your+banner+image+here" alt="Profile banner placeholder" width="100%"/>
+<img src="GitHub Banner@1x (1).png" alt="Profile banner placeholder" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Aryan Jagani 👋</h1>
